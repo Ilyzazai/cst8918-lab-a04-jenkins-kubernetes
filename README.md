@@ -1378,3 +1378,5 @@ For local learning, Docker Desktop Kubernetes and `emptyDir` storage are accepta
 
 For production, Jenkins should use secure access, persistent storage, proper RBAC, agents, backups, monitoring, and a managed Kubernetes platform such as AKS.
 
+---
+*AI is used for Documetation*
